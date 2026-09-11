@@ -29,11 +29,6 @@ Sensor de pulso → Arduino → Serial (USB) → Python (ler_serial.py)
 3. Um **script PHP** (`ler_batimento.php`) lê esse arquivo e disponibiliza o dado para a página
 4. A **página web** (`index.php`) busca o dado via JavaScript e atualiza o dashboard em tempo real, colorindo o resultado de acordo com a zona de frequência cardíaca
 
-## 🖼️ Circuito
-
-<p align="center">
-  <img src="assets/circuito.png" alt="Diagrama do circuito" width="500"/>
-</p>
 
 ## ✨ Funcionalidades
 

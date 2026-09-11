@@ -1,0 +1,10 @@
+# Dados gerados em tempo real (não deve ir para o repositório)
+dados_sensor.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
